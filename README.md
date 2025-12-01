@@ -132,21 +132,21 @@ lightgbm
 
 Install all required dependencies with:
 
-```bash
+bash
 pip install -r requirements.txt
 
 ## ▶️ How to Run
 
 ### 1️⃣ Clone the repository
 
-```bash
+bash
 git clone https://github.com/<your-username>/<your-repo-name>.git
 cd <your-repo-name>
 ---
 
 ### 2️⃣ Install the dependencies
 
-```bash
+bash
 pip install -r requirements.txt
 ---
 
@@ -158,7 +158,7 @@ Make sure the dataset CSV files are located in the correct folder (e.g., `data/`
 
 ### 4️⃣ Run the notebook
 
-```bash
+bash
 jupyter notebook
 
 

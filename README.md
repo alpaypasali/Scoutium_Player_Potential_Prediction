@@ -119,7 +119,7 @@ Main steps in the notebook:
 
 Main Python dependencies (not exhaustive):
 
-```text
+text
 pandas
 numpy
 scikit-learn
